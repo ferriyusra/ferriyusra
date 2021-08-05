@@ -3,8 +3,8 @@
 Perkenalkan nama saya **Ferri Yusra**.
 
 Saya seorang **Mahasiswa Semester Akhir** di Perguruan Tinggi di Jakrata.  
-Saya menyukai membuat aplikasi berbasis website. Saya terbiasa menggunakan PHP sebagai bahasa utama saya. Meskipun sudah pernah mencoba Javascript seperti NodeJs tetapi back to back PHP.  
-Saya lebih terbiasa dalam hal backend, untuk frontend skill saya masih sangat kurang.  
+Saya menyukai membuat aplikasi berbasis website. Saya terbiasa menggunakan PHP sebagai bahasa utama.  
+
 
 ### Teknologi Bahasa yang digunakan
 <a href="#"><img align="left" alt="php" title="php" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png"/></a>
