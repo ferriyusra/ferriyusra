@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Ferri Yusra**.
 
-Saya seorang **Mahasiswa Semester Akhir** di Perguruan Tinggi di Jakrata.  
+Saya seorang **Freshgraduate** di Perguruan Tinggi di Jakrata.  
 Saya menyukai membuat aplikasi berbasis website. Saya terbiasa menggunakan PHP sebagai bahasa utama.  
 
 
