@@ -3,7 +3,8 @@
 Perkenalkan nama saya **Ferri Yusra**.
 
 Saya seorang **Freshgraduate** di Perguruan Tinggi di Jakrata.  
-Saya menyukai membuat aplikasi berbasis website. Saya terbiasa menggunakan PHP sebagai bahasa utama.  
+Saya menyukai membuat aplikasi berbasis website. Saya terbiasa menggunakan PHP sebagai bahasa utama.
+Untuk bahasa pemograman lain seperti JavaScript dan NodeJs saya pernah mempelajari nya.
 
 
 ### Teknologi Bahasa yang digunakan
