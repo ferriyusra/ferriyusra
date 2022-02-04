@@ -1,6 +1,6 @@
-# Halo semua 👋👋!
+# Halo semua 👋👋
 
-Perkenalkan nama saya **Ferri Yusra**.
+<!-- Perkenalkan nama saya **Ferri Yusra**.
 
 Saya seorang **Freshgraduate** di Perguruan Tinggi di Jakrata.  
 Saya menyukai membuat aplikasi berbasis website. Saya terbiasa menggunakan PHP sebagai bahasa utama.
@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+ -->
