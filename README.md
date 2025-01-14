@@ -1,4 +1,4 @@
-# Halo semua 👋👋
+# Hi, I'm Ferri Yusra 👋👋
 
 Ferri has three years of experience in software development. He has experienced developer with a demonstrated history of working in the higher health industry and tech industry. Skilled in JavaScript, TypeScript, Node.js, Express.js, Nest.js, Go Programming, PHP, Laravel and Backend Development. Most recently, he learn technologies in Frontend like React.js and Vue.js.
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <details>
 
 <summary> See more... </summary>
+
 ### Databases and Storages
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />](https://www.mysql.com/)
@@ -86,10 +87,4 @@ Here are some ideas to get you started:
 [<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />](https://www.figma.com/)
 
 </details>
-
-## My Stats
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C290%20hrs%2025%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
