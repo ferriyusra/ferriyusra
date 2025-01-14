@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on INA Digital
 - 🌱 I’m currently learning deep in Data Structure and Algorithm, React and Vue to before start learn to Next and Nuxt :D.
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for part time freelancer Backend or maybe chance to fullstack.
+- 🤔 I’m looking for part time freelancer Backend Developer or maybe chance to Fullstack Developer.
 - 💬 Ask me for discussion
 - 📫 How to reach me: [Email](mailto:feriyusra1616@gmail.com)/[LinkedIn](https://www.linkedin.com/in/ferri-yusra)
 
