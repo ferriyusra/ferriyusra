@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ### Languages and frameworks
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/go" />](https://go.dev/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/gin" />](https://gin-gonic.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />](https://www.javascript.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />](https://www.typescriptlang.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />](https://nodejs.org/)
