@@ -1,7 +1,5 @@
 # Halo semua 👋👋
 
-<!-- Perkenalkan nama saya **Ferri Yusra**.
-
 Ferri has three years of experience in software development. He has experienced developer with a demonstrated history of working in the higher health industry and tech industry. Skilled in JavaScript, TypeScript, Node.js, Express.js, Nest.js, Go Programming, PHP, Laravel and Backend Development. Most recently, he learn technologies in Frontend like React.js and Vue.js.
 
 ## Starting Career as Backend Developer, currently focusing on Javascript/Typescript frameworks and Go.
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 ### Languages and frameworks
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/go" />](https://go.dev/)
-img height="32" width="32" src="https://cdn.simpleicons.org/gin" />](https://gin-gonic.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/gin" />](https://gin-gonic.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />](https://www.javascript.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />](https://www.typescriptlang.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
@@ -68,15 +66,11 @@ img height="32" width="32" src="https://cdn.simpleicons.org/gin" />](https://gin
 ### Testings
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/jest" />](https://jestjs.io/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/cypress" />](https://www.cypress.io/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary" />](https://testing-library.com/)
 
 ### Monitoring and Error Reporting
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/sentry" />](https://sentry.io/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/datadog" />](https://www.datadoghq.com/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/kibana" />](https://www.elastic.co/kibana)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/grafana" />](https://grafana.com/)
 
 ### Queue
 
@@ -95,7 +89,6 @@ img height="32" width="32" src="https://cdn.simpleicons.org/gin" />](https://gin
 
 ## My Stats
 
-<!--START_SECTION:CodingStats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C290%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
