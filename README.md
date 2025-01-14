@@ -2,38 +2,101 @@
 
 <!-- Perkenalkan nama saya **Ferri Yusra**.
 
-Saya seorang **Freshgraduate** di Perguruan Tinggi di Jakrata.  
-Saya menyukai membuat aplikasi berbasis website. Saya terbiasa menggunakan PHP sebagai bahasa utama.
-Untuk bahasa pemograman lain seperti JavaScript dan NodeJs saya pernah mempelajari nya.
+Ferri has three years of experience in software development. He has experienced developer with a demonstrated history of working in the higher health industry and tech industry. Skilled in JavaScript, TypeScript, Node.js, Express.js, Nest.js, Go Programming, PHP, Laravel and Backend Development. Most recently, he learn technologies in Frontend like React.js and Vue.js.
 
-
-### Teknologi Bahasa yang digunakan
-<a href="#"><img align="left" alt="php" title="php" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png"/></a>
-<a href="#"><img align="left" alt="laravel" title="laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png"/></a>
-  <br>
-  <br>
-
-<p align="left">
-  <a href="https://github.com/ferriyusra">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferriyusra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferriyusra&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-
-<!--
-**ferriyusra/ferriyusra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Starting Career as Backend Developer, currently focusing on Javascript/Typescript frameworks and Go.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on INA Digital
+- 🌱 I’m currently learning deep in Data Structure and Algorithm, React and Vue to before start learn to Next and Nuxt :D.
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for part time freelancer Backend or maybe chance to fullstack.
+- 💬 Ask me for discussion
+- 📫 How to reach me: [Email](mailto:feriyusra1616@gmail.com)/[LinkedIn](https://www.linkedin.com/in/ferri-yusra)
 
+## Tech Stacks
 
- -->
+### Languages and frameworks
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/go" />](https://go.dev/)
+img height="32" width="32" src="https://cdn.simpleicons.org/gin" />](https://gin-gonic.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />](https://www.javascript.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />](https://www.css3.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/react" />](https://react.dev/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/next.js" />](https://nextjs.org/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />](https://nodejs.org/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/express" />](https://expressjs.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/nestjs" />](https://nestjs.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/php" />](https://www.php.net/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />](https://laravel.com/)
+
+<details>
+
+<summary> See more... </summary>
+### Databases and Storages
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />](https://www.mysql.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql" />](https://www.postgresql.org/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />](https://www.mongodb.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/supabase" />](https://supabase.com/)
+
+### Cloud Platforms and Deployment Tools
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud" />](https://cloud.google.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/vercel" />](https://vercel.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/digitalocean" />](https://www.digitalocean.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />](https://www.heroku.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/githubactions" />](https://github.com/features/actions)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/bitbucket" />](https://bitbucket.org/product/features/pipelines)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/cpanel" />](https://cpanel.net/)
+
+### Authentication and Payment
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/jsonwebtokens" />](https://jwt.io/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/gitter" />](https://midtrans.com/)
+
+### Version Control and Collaboration
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/git" />](https://git-scm.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/github" />](https://github.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/bitbucket" />](https://bitbucket.org/product)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" />](https://about.gitlab.com/)
+
+### Testings
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/jest" />](https://jestjs.io/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/cypress" />](https://www.cypress.io/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/testinglibrary" />](https://testing-library.com/)
+
+### Monitoring and Error Reporting
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/sentry" />](https://sentry.io/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/datadog" />](https://www.datadoghq.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/kibana" />](https://www.elastic.co/kibana)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/grafana" />](https://grafana.com/)
+
+### Queue
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/apachekafka" />](https://kafka.apache.org/)
+
+### Others
+
+[<img height="32" width="32" src="https://cdn.simpleicons.org/axios" />](https://axios-http.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/apollographql" />](https://www.apollographql.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/redux" />](https://redux.js.org/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />](https://reactrouter.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />](https://react-hook-form.com/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />](https://www.figma.com/)
+
+</details>
+
+## My Stats
+
+<!--START_SECTION:CodingStats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C290%20hrs%2025%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
