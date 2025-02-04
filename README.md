@@ -75,7 +75,6 @@ Here are some ideas to get you started:
 ### Others
 
 [<img height="32" width="32" src="https://cdn.simpleicons.org/axios" />](https://axios-http.com/)
-[<img height="32" width="32" src="https://cdn.simpleicons.org/apollographql" />](https://www.apollographql.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/redux" />](https://redux.js.org/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/reactrouter" />](https://reactrouter.com/)
 [<img height="32" width="32" src="https://cdn.simpleicons.org/reacthookform" />](https://react-hook-form.com/)
