@@ -2,7 +2,7 @@
 
 Ferri has three years of experience in software development. He has experienced developer with a demonstrated history of working in the higher health industry and tech industry. Skilled in JavaScript, TypeScript, Node.js, Express.js, Nest.js, Go Programming, PHP, Laravel and Backend Development. Most recently, he learn technologies in Frontend like React.js and Vue.js.
 
-## Starting Career as Backend Developer, currently focusing on Javascript/Typescript frameworks and Go.
+## Starting Career as Backend Developer, currently focusing on Javascript/Typescript and Go with other frameworks.
 
 Here are some ideas to get you started:
 
