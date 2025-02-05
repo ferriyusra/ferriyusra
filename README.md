@@ -7,7 +7,7 @@ Ferri has three years of experience in software development. He has experienced 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on INA Digital
-- 🌱 I’m currently learning deep in Data Structure and Algorithm, React and Vue to before start learn to Next and Nuxt :D.
+- 🌱 I’m currently learning deep in React and Vue to before start learn to Next and Nuxt :D soon will be learn about AI :D.
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for part time freelancer Backend Developer or maybe chance to Fullstack Developer.
 - 💬 Ask me for discussion
